@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="3d369b7d-88e9-4780-9cd4-84700ca28d22" name="Default Changelist" comment="" />
+    <list default="true" id="3d369b7d-88e9-4780-9cd4-84700ca28d22" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JUnitCalculator.iml" beforeDir="false" afterPath="$PROJECT_DIR$/CSC180_Calculator.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -15,6 +22,9 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1ZxH2Z4IoO7X0xvsXehdhQjRFKr" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -23,13 +33,17 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit5" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5" value="" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../../Q2_CSC150-Cox/pong_git" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
   </component>
   <component name="RecentsManager">
     <key name="CreateTestDialog.RecentsKey">
@@ -41,10 +55,13 @@
   </component>
   <component name="RunManager">
     <configuration name="CalculatorTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="JUnitCalculator" />
+      <module name="CSC180_Calculator" />
+      <useClassPathOnly />
       <option name="PACKAGE_NAME" value="" />
       <option name="MAIN_CLASS_NAME" value="CalculatorTest" />
+      <option name="METHOD_NAME" value="" />
       <option name="TEST_OBJECT" value="class" />
+      <option name="PARAMETERS" value="" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -66,6 +83,7 @@
       <option name="presentableId" value="Default" />
       <updated>1585773618216</updated>
       <workItem from="1585773619996" duration="643000" />
+      <workItem from="1585948021362" duration="141000" />
     </task>
     <servers />
   </component>
@@ -73,22 +91,30 @@
     <option name="version" value="1" />
   </component>
   <component name="WindowStateProjectService">
-    <state width="1877" height="269" key="GridCell.Tab.0.bottom" timestamp="1585774263474">
+    <state x="564" y="164" key="#CalculatorTest" timestamp="1585948044845">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
-    <state width="1877" height="269" key="GridCell.Tab.0.bottom/0.0.1920.1050@0.0.1920.1050" timestamp="1585774263474" />
-    <state width="1877" height="269" key="GridCell.Tab.0.center" timestamp="1585774263474">
+    <state x="564" y="164" key="#CalculatorTest/0.0.1920.1050@0.0.1920.1050" timestamp="1585948044845" />
+    <state x="552" y="183" key="#Project_Structure" timestamp="1585948159891">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
-    <state width="1877" height="269" key="GridCell.Tab.0.center/0.0.1920.1050@0.0.1920.1050" timestamp="1585774263474" />
-    <state width="1877" height="269" key="GridCell.Tab.0.left" timestamp="1585774263474">
+    <state x="552" y="183" key="#Project_Structure/0.0.1920.1050@0.0.1920.1050" timestamp="1585948159891" />
+    <state width="1877" height="269" key="GridCell.Tab.0.bottom" timestamp="1585948161180">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
-    <state width="1877" height="269" key="GridCell.Tab.0.left/0.0.1920.1050@0.0.1920.1050" timestamp="1585774263474" />
-    <state width="1877" height="269" key="GridCell.Tab.0.right" timestamp="1585774263474">
+    <state width="1877" height="269" key="GridCell.Tab.0.bottom/0.0.1920.1050@0.0.1920.1050" timestamp="1585948161180" />
+    <state width="1877" height="269" key="GridCell.Tab.0.center" timestamp="1585948161180">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
-    <state width="1877" height="269" key="GridCell.Tab.0.right/0.0.1920.1050@0.0.1920.1050" timestamp="1585774263474" />
+    <state width="1877" height="269" key="GridCell.Tab.0.center/0.0.1920.1050@0.0.1920.1050" timestamp="1585948161180" />
+    <state width="1877" height="269" key="GridCell.Tab.0.left" timestamp="1585948161179">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="1877" height="269" key="GridCell.Tab.0.left/0.0.1920.1050@0.0.1920.1050" timestamp="1585948161179" />
+    <state width="1877" height="269" key="GridCell.Tab.0.right" timestamp="1585948161180">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="1877" height="269" key="GridCell.Tab.0.right/0.0.1920.1050@0.0.1920.1050" timestamp="1585948161180" />
     <state x="490" y="179" key="Maven.ArtifactSearchDialog" timestamp="1585773741128">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
